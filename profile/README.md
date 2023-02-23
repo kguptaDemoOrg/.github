@@ -2,8 +2,6 @@
 
 This is template for organization description
 
----------------------------------------------------
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla efficitur, erat nec bibendum molestie, quam leo eleifend leo, et vulputate odio nibh non urna. Vestibulum faucibus tristique sapien, imperdiet semper elit tempus vitae. Phasellus facilisis lacus eget tincidunt mollis. Vivamus eu ipsum eleifend, fermentum ipsum quis, pretium mi. Integer scelerisque posuere erat, vel dictum lacus semper a. Sed in elit fermentum ipsum porta aliquet nec ac eros. Vestibulum sollicitudin odio elit, porta bibendum magna venenatis vel. Duis ac eros nulla. Nam ut nibh sit amet risus mollis vehicula at non dolor. Aenean vel nisi id nisi congue ornare. Proin eget porttitor neque. Aliquam erat volutpat. Sed ex sapien, venenatis in tempus nec, pharetra eget lorem. Sed consequat lacinia ex, eu maximus diam elementum a.
 
 Cras eleifend augue arcu, a faucibus arcu commodo mollis. Fusce nec vulputate turpis. Vestibulum in tellus iaculis, fermentum tellus vitae, convallis lorem. Suspendisse mattis tempor nibh, vel volutpat dolor ullamcorper non. Curabitur sed vulputate elit. Nam felis dolor, facilisis at bibendum posuere, imperdiet eget ipsum. Nulla scelerisque pretium nulla sit amet vestibulum. Sed dapibus dolor nec sodales placerat. Vivamus tincidunt nec ante ut pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam eget diam non dolor accumsan commodo a vitae risus. Etiam risus est, egestas at leo ac, sodales dapibus nisi.
