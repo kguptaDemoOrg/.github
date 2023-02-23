@@ -2,7 +2,7 @@
 
 This is template for organization description
 
-**********************************************************************************************************************************
+---------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla efficitur, erat nec bibendum molestie, quam leo eleifend leo, et vulputate odio nibh non urna. Vestibulum faucibus tristique sapien, imperdiet semper elit tempus vitae. Phasellus facilisis lacus eget tincidunt mollis. Vivamus eu ipsum eleifend, fermentum ipsum quis, pretium mi. Integer scelerisque posuere erat, vel dictum lacus semper a. Sed in elit fermentum ipsum porta aliquet nec ac eros. Vestibulum sollicitudin odio elit, porta bibendum magna venenatis vel. Duis ac eros nulla. Nam ut nibh sit amet risus mollis vehicula at non dolor. Aenean vel nisi id nisi congue ornare. Proin eget porttitor neque. Aliquam erat volutpat. Sed ex sapien, venenatis in tempus nec, pharetra eget lorem. Sed consequat lacinia ex, eu maximus diam elementum a.
 
